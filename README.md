@@ -40,6 +40,8 @@ The dataset used in this project contains daily metrics for two advertising plat
     
 <img width="475" alt="image" src="https://github.com/user-attachments/assets/66cbe223-a5c5-4f5b-be99-e5e305182ea3" />
 
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/d37e72ac-7a84-47d4-9b4d-452b92951b73" />
+
 
 ### 3. Cost Efficiency
 
