@@ -2,6 +2,8 @@
 
 This project analyzes the performance of two advertising platforms through an A/B test using daily campaign data from 2023. The primary objective is to identify which platform is more effective in terms of conversions, clicks, and cost-efficiency. Additionally we perfrom Regression Analysis to predict the conversions based on number of clicks. 
 
+![image](https://github.com/user-attachments/assets/b1b6c7b6-b679-4669-aec7-cd5335951066)
+
 ## Dataset Overview
 
 The dataset used in this project contains daily metrics for two advertising platforms:
