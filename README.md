@@ -1,15 +1,19 @@
 # A/B Testing: Effectiveness of Advertising Platforms
 
-This project analyzes the performance of two advertising platforms through an A/B test using daily campaign data from 2023. The primary objective is to identify which platform is more effective in terms of conversions, clicks, and cost-efficiency.
+This project analyzes the performance of two advertising platforms through an A/B test using daily campaign data from 2023. The primary objective is to identify which platform is more effective in terms of conversions, clicks, and cost-efficiency. Additionally we perfrom Regression Analysis to predict the conversions based on number of clicks. 
 
 ## Dataset Overview
 
 The dataset used in this project contains daily metrics for two advertising platforms:
+- Facebook Ad Campign
+- Adwords Ad Campign
 
 - **Timeframe**: January 1, 2023 – December 31, 2023 (365 rows)
 - **Key Metrics**:
   - Daily clicks and conversions for Facebook Ads and AdWords.
   - Associated costs for each platform.
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/41dfc322-15b4-4c39-8671-5f0ccd664b72" />
+
 
 ## Data Preprocessing
 
